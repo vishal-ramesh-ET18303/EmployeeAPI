@@ -1,6 +1,5 @@
-package com.vishalramesh.employee.comtroller;
+package com.vishalramesh.employee.controller;
 
-import com.vishalramesh.employee.controller.EmployeeController;
 import com.vishalramesh.employee.dao.EmployeeRepository;
 import com.vishalramesh.employee.model.Employee;
 import org.junit.Before;
